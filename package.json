@@ -1,0 +1,17 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "Anna Horlach training",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cypress": "^6.0.1",
+    "mocha": "^8.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anna Horlach",
+  "license": "ISC"
+}
