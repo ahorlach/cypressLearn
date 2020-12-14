@@ -1,5 +1,6 @@
 {
     "modifyObstructiveCode": false,
     "experimentalSourceRewriting":true,
-    "chromeWebSecurity": true
+    "chromeWebSecurity": true,
+    "defaultCommandTimeout": 10000
 }

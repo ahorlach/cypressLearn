@@ -17,7 +17,7 @@ class HomePage
     }
 
     getShopTab() {
-        cy.get(':nth-child(2) > .nav-link')
+        return cy.get(':nth-child(2) > .nav-link')
     }
 }
 
